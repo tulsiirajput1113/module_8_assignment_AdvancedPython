@@ -3,14 +3,14 @@
 #  Write a Python program to demonstrate the use of local and global variables in a class.
 
 # Global variable
-college = "Silver Oak University"
+college = "LJ University"
 
 class Student:
     
     def show(self):
         
         # Local variable
-        name = "Jinal"
+        name = "tulsi"
         
         print("Student Name:", name)
         print("College Name:", college)
